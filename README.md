@@ -1,5 +1,6 @@
 # HMI y Sistema de Control para Cobot de 3 GDL
-
+![Interfaz HMI del Cobot](Asset/V1.png)
+![Interfaz HMI del Cobot](Asset/V2.png)
 ## 1. Introducción
 Este proyecto de Ingeniería en Automatización consiste en un sistema de Interfaz Humano-Máquina (HMI) desarrollado en Java para simular, calcular y operar un brazo robótico colaborativo (Cobot) de 3 grados de libertad (GDL). 
 
